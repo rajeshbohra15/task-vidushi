@@ -46,8 +46,8 @@ a{
 }
 .navbar{
     background-color: #00305b;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
 }
 .navbar-brand img{
     width: 200px;
